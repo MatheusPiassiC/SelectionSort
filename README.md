@@ -1,6 +1,5 @@
-# SelectionSort(C++)
-Teste do método de ordenação Selection Sort, ordenando um vetor em ordem crescente;
-#include <iostream>
+//SelectionSort(C++)
+//Teste do método de ordenação Selection Sort, ordenando um vetor em ordem crescente;
 
 
 #include <iostream>
